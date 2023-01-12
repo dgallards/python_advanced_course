@@ -4,9 +4,10 @@
 ## Esquema del curso
 ### [Introducción a las librerías de Python para desarrollo web (1 hora)](https://github.com/dgallards/ "Introducción a las librerías de Python para desarrollo web (1 hora)") 
 
-1. 
-2. 
-3. 
+1. Instalación de Tornado Web Server
+2. Primeros pasos
+3. Servir y gestionar peticiones GET y POST
+4. Creando una API REST
 
 ### [Web scraping con Python (1 hora)](https://github.com/dgallards/ "Web scraping con Python (1 hora)")
 

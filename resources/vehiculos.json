@@ -1,0 +1,94 @@
+{
+    "vehiculos": [
+        {
+            "marca": "Ford",
+            "modelo": "Mustang",
+            "año": 2021,
+            "kilometros": 12000,
+            "combustible": "Gasolina",
+            "fotografía": "imagenes/ford_mustang.jpg",
+            "descripción": "El Ford Mustang es un deportivo americano con un motor V8 de 5.0 litros y una transmisión automática de 10 velocidades."
+        },
+        {
+            "marca": "Chevrolet",
+            "modelo": "Camaro",
+            "año": 2020,
+            "kilometros": 9000,
+            "combustible": "Gasolina",
+            "fotografía": "imagenes/chevrolet_camaro.jpg",
+            "descripción": "El Chevrolet Camaro es un deportivo americano con un motor V6 de 3.6 litros y una transmisión automática de 10 velocidades."
+        },
+        {
+            "marca": "Dodge",
+            "modelo": "Challenger",
+            "año": 2019,
+            "kilometros": 11000,
+            "combustible": "Gasolina",
+            "fotografía": "imagenes/dodge_challenger.jpg",
+            "descripción": "El Dodge Challenger es un deportivo americano con un motor V8 de 6.4 litros y una transmisión automática de 8 velocidades."
+        },
+        {
+            "marca": "Tesla",
+            "modelo": "Model S",
+            "año": 2018,
+            "kilometros": 15000,
+            "combustible": "Electricidad",
+            "fotografía": "imagenes/tesla_model_s.jpg",
+            "descripción": "El Tesla Model S es un sedan eléctrico con una autonomía de hasta 402 kilómetros y una potencia de hasta 518 caballos de fuerza."
+        },
+        {
+            "marca": "BMW",
+            "modelo": "M3",
+            "año": 2017,
+            "kilometros": 13500,
+            "combustible": "Gasolina",
+            "fotografía": "imagenes/bmw_m3.jpg",
+            "descripción": "El BMW M3 es un deportivo alemán con un motor de seis cilindros en línea y una transmisión automática de 7 velocidades."
+        },
+        {
+            "marca": "Mercedes-Benz",
+            "modelo": "AMG C43",
+            "año": 2016,
+            "kilometros": 10000,
+            "combustible": "Gasolina",
+            "fotografía": "imagenes/mercedes_amg_c43.jpg",
+            "descripción": "El Mercedes-Benz AMG C43 es un coupé alemáncon un motor V6 biturbo de 3.0 litros y una transmisión automática de 9 velocidades."
+        },
+        {
+            "marca": "Audi",
+            "modelo": "RS7",
+            "año": 2015,
+            "kilometros": 12500,
+            "combustible": "Diesel",
+            "fotografía": "imagenes/audi_rs7.jpg",
+            "descripción": "El Audi RS7 es una berlina deportiva alemana con un motor V8 biturbo de 4.0 litros y una transmisión automática de 8 velocidades."
+        },
+        {
+            "marca": "Porsche",
+            "modelo": "911",
+            "año": 2014,
+            "kilometros": 14000,
+            "combustible": "Gasolina",
+            "fotografía": "imagenes/porsche_911.jpg",
+            "descripción": "El Porsche 911 es un deportivo alemán con un motor de seis cilindros en línea y una transmisión automática de 7 velocidades."
+        },
+        {
+            "marca": "Ferrari",
+            "modelo": "488 GTB",
+            "año": 2013,
+            "kilometros": 16000,
+            "combustible": "Gasolina",
+            "fotografía": "imagenes/ferrari_488_gtb.jpg",
+            "descripción": "El Ferrari 488 GTB es un deportivo italiano con un motor V8 biturbo de 3.9 litros y una transmisión automática de 7 velocidades."
+        },
+        {
+            "marca": "Lamborghini",
+            "modelo": "Aventador",
+            "año": 2012,
+            "kilometros": 18000,
+            "combustible": "Diesel",
+            "fotografía": "imagenes/lamborghini_aventador.jpg",
+            "descripción": "El Lamborghini Aventador es un superdeportivo italiano con un motor V12 de 6.5 litros y una transmisión automática de 7 velocidades."
+        }
+    ]
+}
