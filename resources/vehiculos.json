@@ -39,7 +39,7 @@
         {
             "marca": "BMW",
             "modelo": "M3",
-            "año": 2017,
+            "año": 2016,
             "kilometros": 13500,
             "combustible": "Gasolina",
             "fotografía": "imagenes/bmw_m3.jpg",
@@ -61,6 +61,33 @@
             "kilometros": 12500,
             "combustible": "Diesel",
             "fotografía": "imagenes/audi_rs7.jpg",
+            "descripción": "El Audi RS7 es una berlina deportiva alemana con un motor V8 biturbo de 4.0 litros y una transmisión automática de 8 velocidades."
+        },
+        {
+            "marca": "Audi",
+            "modelo": "A4",
+            "año": 2016,
+            "kilometros": 12500,
+            "combustible": "Diesel",
+            "fotografía": "imagenes/audi_A4.jpg",
+            "descripción": "El Audi RS7 es una berlina deportiva alemana con un motor V8 biturbo de 4.0 litros y una transmisión automática de 8 velocidades."
+        },
+        {
+            "marca": "Audi",
+            "modelo": "A3",
+            "año": 2018,
+            "kilometros": 12500,
+            "combustible": "Gasolina",
+            "fotografía": "imagenes/audi_A3.jpg",
+            "descripción": "El Audi RS7 es una berlina deportiva alemana con un motor V8 biturbo de 4.0 litros y una transmisión automática de 8 velocidades."
+        },
+        {
+            "marca": "Audi",
+            "modelo": "Quattro",
+            "año": 2019,
+            "kilometros": 12500,
+            "combustible": "Diesel",
+            "fotografía": "imagenes/audi_Quattro.jpg",
             "descripción": "El Audi RS7 es una berlina deportiva alemana con un motor V8 biturbo de 4.0 litros y una transmisión automática de 8 velocidades."
         },
         {
