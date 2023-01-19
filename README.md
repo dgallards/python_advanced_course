@@ -18,10 +18,9 @@
 
 ### [Interfaces gráficas con Python con PyQt (1 hora)](https://github.com/dgallards/ "Interfaces gráficas con Python con PyQt (1 hora)")
 
-1. 
-2. 
-3. 
-4. 
+1. Qué es PyQt
+2. Crear interfaces con QtDesigner
+3. Programar interfaces con PyQt
 
 ### [Uso de bases de datos con Python (1 hora)](https://github.com/dgallards/ "Uso de bases de datos con Python (1 hora)")
 
