@@ -11,7 +11,7 @@ Si aun no tienes instalado Python, puedes echar un vistazo a la guía de instala
 3. Servir y gestionar peticiones GET y POST
 4. Creando una API REST
 
-### [Web scraping con Python (45 min)](https://github.com/dgallards/python_advanced_course/blob/main/spraping.ipynb "Web scraping con Python (45 min)")
+### [Web scraping con Python (45 min)](https://github.com/dgallards/python_advanced_course/blob/main/scraping.ipynb "Web scraping con Python (45 min)")
 
 1. Introducción al Web Scraping con Python
 2. Recopilando información de una página web
