@@ -47,29 +47,29 @@
 </html>
 <script>
     var url = "http://" + window.location.host + "/vehiculos/" + '{{searchterm}}'
-    async function exampleFetch(url) {
+async function exampleFetch(url) {
 
-        const response = await fetch(url);
-        const json = await response.text();
-        var vehiculos = await JSON.parse(json);
-        console.log(vehiculos);
+    const response = await fetch(url);
+    const json = await response.text();
+    var vehiculos = await JSON.parse(json);
+    console.log(vehiculos);
 
-        result = document.getElementById('log')
+    result = document.getElementById('log')
 
-        html = '<table class="table table-striped"><thead><tr><th>Marca</th><th>Modelo</th><th>Año</th><th>Kilometros</th><th>Combustible</th><th>Descripción</th></tr></thead><tbody>'
+    html = '<table class="table table-striped"><thead><tr><th>Marca</th><th>Modelo</th><th>Año</th><th>Kilometros</th><th>Combustible</th><th>Descripción</th></tr></thead><tbody>'
 
-        vehiculos.forEach(vehiculo => {
-            html += '<tr><td>' + vehiculo['marca'] + '</td><td>' + vehiculo['modelo'] + '</td><td>' + vehiculo['año'] + '</td><td>' + vehiculo['kilometros'] + '</td><td>' + vehiculo['combustible'] + '</td><td>' + vehiculo['descripción'] + '</td></tr>'
-        });
+    vehiculos.forEach(vehiculo => {
+        html += '<tr><td>' + vehiculo['marca'] + '</td><td>' + vehiculo['modelo'] + '</td><td>' + vehiculo['año'] + '</td><td>' + vehiculo['kilometros'] + '</td><td>' + vehiculo['combustible'] + '</td><td>' + vehiculo['descripción'] + '</td></tr>'
+    });
 
-        html += "</tbody> </table>"
+    html += "</tbody> </table>"
 
-        result.innerHTML = html
+    result.innerHTML = html
 
 
-    }
-    console.log(url);
-    
-    exampleFetch(url)
+}
+console.log(url);
+
+exampleFetch(url)
 
 </script>
